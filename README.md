@@ -76,7 +76,7 @@ web-portfolio/
 📫 Contact
 GitHub: EstherDev-ops
 
-Email: your.email@example.com
+Email: mainaesther1164@gmail.com
 
 LinkedIn: Your LinkedIn Name
 
