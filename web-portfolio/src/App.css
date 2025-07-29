@@ -1,6 +1,5 @@
-/* Base Styles & Variables */
+
 :root {
-  /* Colors */
   --primary-color: #3b82f6;
   --primary-hover: #2563eb;
   --secondary-color: #64748b;
@@ -52,8 +51,8 @@ body {
   line-height: 1.6;
   background-color: var(--bg-light);
   color: var(--text-light);
-  transition: background-color var(--transition-normal), 
-              color var(--transition-normal);
+  transition: background-color var(--transition-normal),
+    color var(--transition-normal);
 }
 
 .dark body {
@@ -66,6 +65,7 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
+  width: 100%;
 }
 
 /* Header Styles */
